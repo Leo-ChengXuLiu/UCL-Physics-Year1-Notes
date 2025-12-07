@@ -41,11 +41,11 @@ This is not just a summary of the slides. This is a complete reconstruction of t
   - [ ] Week 11
   - [ ] Week 12
 **Mathematical Methods**
-  - [ ] Week 1
-  - [ ] Week 2
-  - [ ] Week 3
-  - [ ] Week 4
-  - [ ] Week 5
+  - [x] Week 1
+  - [x] Week 2
+  - [x] Week 3
+  - [x] Week 4
+  - [x] Week 5
   - [ ] Week 6
   - [ ] Week 7
   - [ ] Week 8
@@ -60,6 +60,9 @@ This is not just a summary of the slides. This is a complete reconstruction of t
 
 ## ⚠️ Disclaimer
 These are my personal study notes. While I strive for rigor, they are unofficial. The "extensions" part may cover topics slightly outside the standard exam scope but are intended for enthusiasts.
+## 🤝 Contact
+If you find these notes helpful, or if you spot an error, feel free to reach out!
+* **Connect with me:** Wechat:13701067904 Whatsapp:7344099424
 
 ---
 *Maintained by a UCL Physics Student. Fighting for the Truth of Physics.*
