@@ -40,7 +40,8 @@ This is not just a summary of the slides. This is a complete reconstruction of t
   - [ ] Week 10
   - [ ] Week 11
   - [ ] Week 12
-**Mathematical Methods**
+
+**Mathematical Methods 1**
   - [x] Week 1
   - [x] Week 2
   - [x] Week 3
