@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-orange) ![Update](https://img.shields.io/badge/Updates-Ongoing-green) ![Notability](https://img.shields.io/badge/Made%20with-Notability-blue)
 
-> "I learned very early the difference between knowing the name of something and knowing something." — Richard Feynman
+
 > "Physics is like sex: sure, it may give some practical results, but that's not why we do it." — Richard Feynman
 
 ## 🚧 Project Status: Active & Updating
