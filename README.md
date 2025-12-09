@@ -14,15 +14,15 @@
 This is not just a summary of the slides. This is a complete reconstruction of the UCL Year 1 Physics curriculum, written with a focus on **first-principles derivation** and **comprehensive extension**.
 
 ### Why use these notes?
-* **📐 Complete Derivations (全过程推导):**
+* **📐 Complete Derivations :**
     * Every single formula appearing in Lecture PPTs and Reading Assignments is derived from scratch.
     * No "magic steps" skipped. I bridge the gaps that professors often leave out.
-* **🌌 Massive Extensions (超大量拓展):**
+* **🌌 Massive Extensions :**
     * Contains supplementary knowledge and mathematical context that goes beyond the syllabus but is crucial for a deep understanding of physics.
 * **✍️ Handwriting Aesthetics:**
     * Created in Notability. Designed to be visually structured for logical flow.
 
-## 🗺️ Roadmap & Progress (更新进度)
+## 🗺️ Roadmap & Progress 
 *Check back often to see new modules!*
 > **📢 Quality Notice regarding Week 1-5:**
 > Please note that **PHAS0004 (Weeks 1-5)** and **Math (Weeks 1-5)** are currently uploaded as **scanned paper notes**. The quality is not yet optimal. I am currently remastering them into the high-quality **digital handwritten format** (same standard as Week 6 & 7) and will upload the improved versions soon. Thanks for your patience!
@@ -32,7 +32,7 @@ This is not just a summary of the slides. This is a complete reconstruction of t
   - [ ] Week 2
   - [ ] Week 3
   - [ ] Week 4
-  - [ ] Week 5
+  - [x] Week 5
   - [x] Week 6
   - [x] Week 7
   - [ ] Week 8
@@ -58,6 +58,7 @@ This is not just a summary of the slides. This is a complete reconstruction of t
 ## 🖼️ Preview (Sneak Peek)
 *(Below is an example of a full derivation page)*
 ![Preview](Preview1.jpg)
+![Preview](Preview2.jpg)
 
 ## ⚠️ Disclaimer
 These are my personal study notes. While I strive for rigor, they are unofficial. The "extensions" part may cover topics slightly outside the standard exam scope but are intended for enthusiasts.
