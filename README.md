@@ -57,8 +57,8 @@ This is not just a summary of the slides. This is a complete reconstruction of t
 
 ## 🖼️ Preview (Sneak Peek)
 *(Below is an example of a full derivation page)*
-![Preview](Preview1.jpg)
 ![Preview](Preview_2.jpg)
+Week 5 Derivation of the electron distribution model for the hydrogen atom from a one-dimensional perspective
 
 ## ⚠️ Disclaimer
 These are my personal study notes. While I strive for rigor, they are unofficial. The "extensions" part may cover topics slightly outside the standard exam scope but are intended for enthusiasts.
