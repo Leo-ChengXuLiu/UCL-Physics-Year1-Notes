@@ -56,15 +56,13 @@ This is not just a summary of the slides. This is a complete reconstruction of t
   - [ ] Week 12
 
 ## 🖼️ Preview (Sneak Peek)
-*(Below is an example of a full derivation page)*
-![Preview](Preview_2.jpg)
-Week 5 Derivation of the electron distribution model for the hydrogen atom from a one-dimensional perspective
-
+> **Week 5: Electron Distribution Model (Hydrogen Atom)** > *Focus: One-dimensional perspective derivation* >
+> ![Preview](Preview_2.jpg)<img width="600">
 ## ⚠️ Disclaimer
 These are my personal study notes. While I strive for rigor, they are unofficial. The "extensions" part may cover topics slightly outside the standard exam scope but are intended for enthusiasts.
 ## 🤝 Contact
 If you find these notes helpful, or if you spot an error, feel free to reach out!
-* **Connect with me:** Wechat:13701067904 Whatsapp:7344099424
+* **Connect with me:** Wechat:13701067904
 
 ---
 *Maintained by a UCL Physics Student. Fighting for the Truth of Physics.*
