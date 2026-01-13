@@ -31,11 +31,11 @@ This is not just a summary of the slides. This is a complete reconstruction of t
   - [ ] Week 1
   - [ ] Week 2
   - [ ] Week 3
-  - [ ] Week 4
+  - [x] Week 4
   - [x] Week 5
   - [x] Week 6
   - [x] Week 7
-  - [ ] Week 8
+  - [x] Week 8
   - [ ] Week 9
   - [ ] Week 10
   - [ ] Week 11
