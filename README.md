@@ -41,6 +41,34 @@ This is not just a summary of the slides. This is a complete reconstruction of t
   - [ ] Week 11
   - [ ] Week 12
 
+**PHAS0005: Wave Optics And Acoustics.pdf**
+  - [x] Week 1
+  - [ ] Week 2
+  - [ ] Week 3
+  - [ ] Week 4
+  - [ ] Week 5
+  - [ ] Week 6
+  - [ ] Week 7
+  - [ ] Week 8
+  - [ ] Week 9
+  - [ ] Week 10
+  - [ ] Week 11
+  - [ ] Week 12
+
+**PHAS0006: Thermal Physics and the Properties of Matter**
+  - [ ] Week 1
+  - [ ] Week 2
+  - [ ] Week 3
+  - [ ] Week 4
+  - [ ] Week 5
+  - [ ] Week 6
+  - [ ] Week 7
+  - [ ] Week 8
+  - [ ] Week 9
+  - [ ] Week 10
+  - [ ] Week 11
+  - [ ] Week 12
+
 **Mathematical Methods 1**
   - [x] Week 1
   - [x] Week 2
@@ -54,6 +82,7 @@ This is not just a summary of the slides. This is a complete reconstruction of t
   - [ ] Week 10
   - [ ] Week 11
   - [ ] Week 12
+
 
 ## 🖼️ Preview (Sneak Peek)
 > **Week 5: Electron Distribution Model (Hydrogen Atom)** > *Focus: One-dimensional perspective derivation* >
