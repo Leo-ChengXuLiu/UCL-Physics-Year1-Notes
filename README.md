@@ -83,6 +83,20 @@ This is not just a summary of the slides. This is a complete reconstruction of t
   - [ ] Week 11
   - [ ] Week 12
 
+**Mathematical Methods 2**
+  - [x] Week 1
+  - [ ] Week 2
+  - [ ] Week 3
+  - [ ] Week 4
+  - [ ] Week 5
+  - [ ] Week 6
+  - [ ] Week 7
+  - [ ] Week 8
+  - [ ] Week 9
+  - [ ] Week 10
+  - [ ] Week 11
+  - [ ] Week 12
+
 
 ## 🖼️ Preview (Sneak Peek)
 > **Week 5: Electron Distribution Model (Hydrogen Atom)** > *Focus: One-dimensional perspective derivation* >
