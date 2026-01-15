@@ -56,7 +56,7 @@ This is not just a summary of the slides. This is a complete reconstruction of t
   - [ ] Week 12
 
 **PHAS0006: Thermal Physics and the Properties of Matter**
-  - [ ] Week 1
+  - [x] Week 1
   - [ ] Week 2
   - [ ] Week 3
   - [ ] Week 4
