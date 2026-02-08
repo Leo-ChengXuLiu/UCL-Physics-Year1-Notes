@@ -34,7 +34,7 @@ To demonstrate the rigor applied to my studies, below are sample pages from my n
 
 | **Excerpt 1: Quantum Formalism / Operator Algebra** | **Excerpt 2: Classical Dynamics / Analysis** |
 | :---: | :---: |
-| <img src="Preview1.jpg" alt="Preview of Quantum Mechanics Notes" width="100%"> | <img src="Preview_2.jpg" alt="Preview of Thermal Notes" width="100%"> |
+| <img src="Preview1.jpg" alt="Preview of Thermal Notes" width="100%"> | <img src="Preview_2.jpg" alt="Preview of Quantum Mechanics Notes" width="100%"> |
 | *Example of rigorous mathematical restructuring of standard theorems.* | *Detailed diagrammatic analysis and step-by-step proof.* |
 
 ---
