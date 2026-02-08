@@ -38,37 +38,7 @@ Beyond the standard curriculum, I am currently documenting my self-study in adva
 
 ---
 
-## 📂 Repository Structure
-
-### 1. Classical Mechanics & Relativity
-* [📄 Link to your PDF/Folder] - **Newtonian Dynamics & Conservation Laws**
-* [📄 Link to your PDF/Folder] - **Special Relativity (4-Vector Formalism)**
-* *Supplementary:* Python simulations for N-body problems.
-
-### 2. Quantum Physics & Matter
-* [📄 Link to your PDF/Folder] - **Wave Mechanics & The Schrödinger Equation**
-* [📄 Link to your PDF/Folder] - **Atomic Physics & Structure**
-* *Note:* Includes full derivation of the Hydrogen atom radial solutions.
-
-### 3. Thermal & Statistical Physics
-* [📄 Link to your PDF/Folder] - **Thermodynamics Laws & Entropy**
-* [📄 Link to your PDF/Folder] - **Maxwell-Boltzmann Statistics**
-
-### 4. Mathematical Methods for Physics
-* [📄 Link to your PDF/Folder] - **Vector Calculus & Linear Algebra**
-* [📄 Link to your PDF/Folder] - **Differential Equations & Complex Analysis**
-
----
-
-## 💻 Computational Physics
-
-All numerical simulations referenced in the notes (Spin chains, N-body simulations, Wave-packet evolution) are implemented in Python using `NumPy`, `SciPy`, and `Matplotlib`.
-
-* Check the `/code` directory for source scripts.
-
----
-
 ## 📬 Contact
 
-**[Your Name]** MSci Physics Undergraduate | University College London  
-Email: [Your UCL Email]
+**[ChengxuLiu]** MSci Physics Undergraduate | University College London  
+Email: [zcapiuk@ucl.ac.uk]
