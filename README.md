@@ -26,6 +26,18 @@ The notes in this repository are heavily expanded and cross-referenced with the 
 | **Thermal Physics** | **Blundell & Blundell**, *Concepts in Thermal Physics* | Microstate counting, partition function derivations, and statistical mechanic foundations. |
 
 ---
+---
+
+## 📄 Notes Preview & Derivations
+
+To demonstrate the rigor applied to my studies, below are sample pages from my notebooks. These excerpts showcase independent derivations of key results found in *Sakurai* and *Landau*, going beyond standard textbook summaries.
+
+| **Excerpt 1: Quantum Formalism / Operator Algebra** | **Excerpt 2: Classical Dynamics / Analysis** |
+| :---: | :---: |
+| <img src="Preview1.jpg" alt="Preview of Quantum Mechanics Notes" width="100%"> | <img src="Preview_2.jpg" alt="Preview of Thermal Notes" width="100%"> |
+| *Example of rigorous mathematical restructuring of standard theorems.* | *Detailed diagrammatic analysis and step-by-step proof.* |
+
+---
 
 ## 🚀 Advanced Theoretical Track (In Progress)
 
