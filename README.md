@@ -39,14 +39,8 @@ To demonstrate the rigor applied to my studies, below are sample pages from my n
 
 ---
 
-## 🚀 Advanced Theoretical Track (In Progress)
+## 🚀 Advanced Theoretical Track (https://github.com/Leo-ChengXuLiu/Advanced-Theoretical-Physics-Manuscripts/tree/main?tab=readme-ov-file)
 
-Beyond the standard curriculum, I am currently documenting my self-study in advanced theoretical physics. These notes represent my transition to graduate-level formalism.
-
-* **Analytical Mechanics:** Based on **L.D. Landau & E.M. Lifshitz**, *Mechanics (Vol. 1)*.
-    * *Focus:* Least Action Principle, Conservation Laws, Small Oscillations.
-* **Modern Quantum Mechanics:** Based on **J.J. Sakurai**, *Modern Quantum Mechanics*.
-    * *Focus:* Dirac notation, Stern-Gerlach experiments, Bell's Inequality, and Time Evolution Operators.
 
 ---
 
